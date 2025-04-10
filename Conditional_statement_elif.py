@@ -20,3 +20,6 @@ elif m>=40:
 else:
     print("You Failed")
 
+
+
+
