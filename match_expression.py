@@ -15,3 +15,6 @@ match day:
     print("Saturday")
   case 7:
     print("Sunday")
+  case _:
+    print("Invalid Number,Because there are 7 days in a week,which starts from Monday")
+    #underscore character _ as the last case value if you want a code block to execute when there are not other matches
